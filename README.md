@@ -1,2 +1,2 @@
 # Brainhack101-2
-Ex 2
+Initialize Docker / Dockerhub
